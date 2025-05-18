@@ -1,18 +1,17 @@
 # How I contribute in Solving Business Problems
 
-## List of Case Studies
+## Table of Contents
 
-### I Built a Data Warehouse so Stakeholders Can Forget Excel
+## I Built a Data Warehouse so Stakeholders Can Forget Excel
 If your company always spends most of its data work in Excel workbook then I'd been there. With data warehouse, I allow stakeholders no need to work with their Excel workbooks to boost their productivity, 
 also resulting in centralized data analysis and KPI reporting with 1% human error in calculation. The data result is presented in Google Sheets, intended for ease of use to copy into Excel workbook.</br>
 
-#### Tools Used
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat-square)
-![Airbyte Badge](https://img.shields.io/badge/Airbyte-615EFF?logo=airbyte&logoColor=fff&style=flat-square)
-<img src="https://img.shields.io/badge/-Microsoft Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-![Google BigQuery Badge](https://img.shields.io/badge/Google%20BigQuery-669DF6?logo=googlebigquery&logoColor=fff&style=flat-square)
-![Google Sheets Badge](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=fff&style=flat-square)
-
+### Tools Used
+![Static Badge](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Airbyte_Cloud-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/microsoft_excel-dark_green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/google_bigquery-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/google_sheets-dark_green?style=for-the-badge)
 
 1. PostgreSQL </br>
 Creating data modeling in view format to be moved.
@@ -29,9 +28,27 @@ Modeling data, analysis, and KPI reporting with SQL language
 5. Google Sheets </br>
 Acts as a presentation area where stakeholders receive the data results.
 
-##### Read the full case study.
+#### Read More </br>
+
+## Achieving Data Maturity in Medium-Size Company
+HBR published that one of barrier of achieving data maturity is not technology issue, but the people within organization. I've experienced the challenge also when working
+on achieving it. Building data habit and ecosystem took a long time, but eventually it was a worthy investment. As a result, company has achieved the third level of data maturity model: data savvy. </br>
+
+### Systems Implemented
+![Static Badge](https://img.shields.io/badge/oms-green?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/wms-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/crm-%23171aca?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/webstore-%23145ab4?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/erp-grey?style=for-the-badge)
 
 
-### Optimizing Warehouse on Retail-Ecommerce Business
-### How We Implemented ERP Infrastructure in Retail & Ecommerce Operations
-### Behind the Data-Driven Decision
+
+### 
+
+
+
+
+
+## How We Implemented ERP Infrastructure in Retail & Ecommerce Operations
+
+## Behind the Data-Driven Decision
